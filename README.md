@@ -1,8 +1,8 @@
-#ansible-docker
+# ansible-docker
 
 ansible playbook for provisioning docker lxc containers
 
-##hosting.yml
+## hosting.yml
 setup a lxc host with the required dependencies
 
 **tags**
